@@ -1,0 +1,25 @@
+S_L_N,D_L_N,S_L_Lat,S_L_Long,D_L_Lat,D_L_Long
+ZeroPoint,Islamabad_Highway_LokVirsa,33.693425,73.065567,33.686649,73.070701
+Islamabad_Highway_LokVirsa,Islamabad_Highway_ShakarParian,33.686649,73.070701,33.678471,73.076838
+Islamabad_Highway_ShakarParian,Islamabad_Highway_Faizabad,33.678471,73.076838,33.665016,73.086818
+Islamabad_Highway_Faizabad,Islamabad_Highway_GardenTown,33.665016,73.086818,33.635523,73.10895
+Islamabad_Highway_GardenTown,Islamabad_Highway_GhouriTown,33.635523,73.10895,33.616455,73.123327
+Islamabad_Highway_GhouriTown,Islamabad_Highway_Koral,33.616455,73.123327,33.60356,73.13293
+Islamabad_Highway_Koral,Islamabad_Highway_GulbergBirdge,33.60356,73.13293,33.588934,73.143755
+Islamabad_Highway_GulbergBirdge,Islamabad_Highway_PWD,33.588934,73.143755,33.569501,73.15833
+Islamabad_Highway_PWD,Islamabad_Highway_GulbergBirdge,33.569501,73.15833,33.590301,73.142532
+Islamabad_Highway_GulbergBirdge2,Islamabad_Highway_Koral,33.590301,73.142532,33.605463,73.131138
+Islamabad_Highway_Koral2,Islamabad_Highway_GhouriTown,33.605463,73.131138,33.617268,73.122372
+Islamabad_Highway_GhouriTown2,Islamabad_Highway_GardenTown,33.617268,73.122372,33.636434,73.108027
+Islamabad_Highway_GardenTown2,Islamabad_Highway_Faizabad,33.636434,73.108027,33.665159,73.086518
+Islamabad_Highway_Faizabad2,Islamabad_Highway_ShakarParian,33.665159,73.086518,33.678891,73.076216
+Islamabad_Highway_ShakarParian2,Islamabad_Highway_LokVirsa,33.678891,73.076216,33.687185,73.070047
+Islamabad_Highway_LokVirsa2,ZeroPoint,33.687185,73.070047,33.69338,73.065331
+Faizabad,IJP Road,33.661566,73.088915,33.658089,73.075814
+IJP Road2,Faizabad,33.658359,73.075881,33.663704,73.085804
+IJP Road,Islamabad_Enterance_IJP,33.658089,73.075814,33.655065,73.070022
+Islamabad_Enterance_IJP2,IJP Road,33.655065,73.070022,33.658359,73.075881
+Islamabad_Enterance_IJP,Khayaban_Johar,33.655065,73.070022,33.6693,73.058886
+Khayaban_Johar,Kashmir Highway,33.6693,73.058886,33.681709,73.04924
+Kashmir Highway2,Khayaban_Johar,33.682825,73.049422,33.669557,73.059304
+Khayaban_Johar2,Islamabad_Enterance_IJP,33.669557,73.059304,33.655427,73.069863
